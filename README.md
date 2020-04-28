@@ -1,5 +1,5 @@
 # statmat 
-Matlab notebooks and handouts,   Course of Mathematical Statistics (Mathematics, Florence)
+Jupyter notebooks and handouts,   Course of Mathematical Statistics (Mathematics, Florence)
 
 Contains
    
